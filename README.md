@@ -1,6 +1,8 @@
 # Terrorism-Topic-Modeling
 Code and description for my study of Topic Modeling to Study Terrorism in Sub-Saharan Africa, 1998 - 2019. 
-Presented as my final project for Applied Machine Learning course, Fall 2021, at the University of North Carolina - Charlotte
+Presented as my final project for Applied Machine Learning course, Fall 2021, at the University of North Carolina - Charlotte.
+
+Futher updates to come.
 
 Check out my code: https://drive.google.com/drive/folders/1g-IizMFTUbYfX3_13jbX8iuGTOhZ_u2_?usp=sharing
 
